@@ -7,3 +7,5 @@ I often stare at signs and look for interesting words to play with.  One thing I
 is a good one, since you can get all the way to a one letter word, which is a kind of word-nerd victory.
 
 The puzzle/question is this: what is the longest word you can do this to?
+
+If you feel like cheating, the code in this repository is one answer.  Can you do it more efficiently?
